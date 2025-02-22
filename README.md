@@ -26,13 +26,20 @@ Program, her günlük kaydı için aşağıdaki bilgileri saklar:
 * Çift yönlü gezinme imkanı
 
 ## 🖥️ Örnek Çıktı
-```c
+```
 Öncelik 1 günlükleri:
-Zaman Damgası: [Tarih ve Saat]
+Zaman Damgası: Sat Feb 22 21:12:28 2025
 Birim: çekirdek
 Mesaj: Sistem başlatıldı
 Sunucu Adı: sunucu1
 Öncelik: 1
+
+Öncelik 3 günlükleri:
+Zaman Damgası: Sat Feb 22 21:12:33 2025
+Birim: kimlik doğrulama
+Mesaj: Kullanıcı giriş denemesi başarısız
+Sunucu Adı: sunucu1
+Öncelik: 3
 ```
 
 ## ⚠️ Hata Yönetimi
